@@ -23,7 +23,7 @@ A través de este proyecto, adquirí habilidades en varias áreas clave:
 
 ## Herramientas de Desarrollo 🖥️
 
-- **IDE (por ejemplo, IntelliJ IDEA o Eclipse)**: Utilizado para el desarrollo del proyecto en Java.
+- **IDE Eclipse**: Utilizado para el desarrollo del proyecto en Java.
 
 ## Instalación y Ejecución 🚀
 
